@@ -1,0 +1,28 @@
+event_date,ukmto_ref,vessel,region,actor_class,event_class,include,date_confidence,source_url,note
+2026-03-01,WARNING 004-26,SKYLIGHT,Gulf of Oman / SOH,iran_or_unattributed,attack,1,high,https://airwars.org/?p=429523,UKMTO daily summary 28 Feb-01 Mar
+2026-03-01,WARNING 005-26,withheld,Gulf of Oman / SOH,iran_or_unattributed,attack,1,high,https://airwars.org/?p=429523,UKMTO daily summary 28 Feb-01 Mar
+2026-03-01,WARNING 006-26,HERCULES STAR,Arabian Gulf,iran_or_unattributed,attack,1,high,https://airwars.org/?p=429523,UKMTO daily summary 28 Feb-01 Mar
+2026-03-07,WARNING 016-26,withheld,Arabian Gulf,iran_or_unattributed,attack,1,high,https://airwars.org/?p=465614,possible UAV attack off Jubail
+2026-03-18,WARNING 024-26,withheld,Gulf of Oman,iran_or_unattributed,attack,1,high,https://mscio.eu/media/documents/20260318-UKMTO_WARNING_024-26.pdf,projectile and fire 11NM E of Khawr Fakkan
+2026-05-03,WARNING 050-26,withheld,SOH,iran_or_unattributed,attack,1,high,https://gulfnews.com/amp/story/world%2Fmena%2Ftanker-hit-by-unknown-projectiles-in-the-in-gulfukmto-issues-warning-1.500527893,small craft attack W of Sirik
+2026-05-03,WARNING 052-26,withheld,Gulf of Oman,iran_or_unattributed,attack,1,high,https://gulfnews.com/amp/story/world%2Fmena%2Ftanker-hit-by-unknown-projectiles-in-the-in-gulfukmto-issues-warning-1.500527893,projectiles N of Fujairah
+2026-06-13,UNKNOWN,withheld,SOH,iran_or_unattributed,attack,1,medium,https://gcaptain.com/tanker-attack-raises-new-questions-about-u-s-secret-mission-in-hormuz/,overnight 12-13 June; UKMTO ref to confirm
+2026-07-07,UNKNOWN,withheld,SOH,iran_or_unattributed,attack,1,medium,https://windward.ai/?p=53819,two laden tankers struck overnight (1 of 2)
+2026-07-07,UNKNOWN,withheld,SOH,iran_or_unattributed,attack,1,medium,https://windward.ai/?p=53819,two laden tankers struck overnight (2 of 2)
+2026-07-17,UNKNOWN,IDI,Arabian Gulf,iran_or_unattributed,attack,1,high,https://www.shippingaustralia.com.au/?p=37018,
+2026-07-17,UNKNOWN,BELMA,Arabian Gulf,us_enforcement,attack,0,high,https://www.shippingaustralia.com.au/?p=37018,EXCLUDED: hit by US blockading forces
+2026-07-20,UNKNOWN,ACHELOOS,Arabian Gulf / SOH,iran_or_unattributed,attack,1,high,https://www.shippingaustralia.com.au/?p=37018,
+2026-07-20,UNKNOWN,KAVOMALEAS,SOH,iran_or_unattributed,attack,1,medium,https://www.shippingaustralia.com.au/?p=37018,Seatrade dates this 19 July; resolve against UKMTO
+2026-07-21,UNKNOWN,KAIFAN,Arabian Gulf,iran_or_unattributed,attack,1,high,https://www.shippingaustralia.com.au/?p=37018,
+2026-07-22,UNKNOWN,ENCELIA,Southern Red Sea,houthi,attack,1,high,https://www.shippingaustralia.com.au/?p=37018,Saudi-flagged; after 20 July Houthi blockade
+2026-07-24,UNKNOWN,DISHA,Arabian Gulf,iran_or_unattributed,attack,1,high,https://www.shippingaustralia.com.au/?p=37018,LPG carrier struck by missile
+2026-08-15,UKMTO 116-26,MINOAN DIGNITY (per OSINT),SOH,iran_or_unattributed,attack,1,high,https://www.ukmto.org/-/media/ukmto/products/update-087-jmic-advisory-note-20-august.pdf,one crew fatality
+2026-08-17,UKMTO 117-26,landing craft (withheld),Bab el-Mandeb,houthi,attack,1,high,https://www.ukmto.org/-/media/ukmto/products/update-087-jmic-advisory-note-20-august.pdf,anchored vessel; 5 of 6 ASBMs struck
+2026-08-20,UKMTO 118-26,SEAMULL,Gulf of Aden,piracy,hijack,0,high,https://www.ukmto.org/-/media/ukmto/products/update-087-jmic-advisory-note-20-august.pdf,EXCLUDED: piracy hijack
+2026-08-24,WARNING 120-26,METRO VENETIAN (per OSINT),SOH,iran_or_unattributed,attack,1,high,https://www.seatrade-maritime.com/security/tanker-disabled-in-strait-of-hormuz-attack,
+2026-08-25,WARNING 121-26,AL SALAM II (per OSINT),SOH,iran_or_unattributed,attack,1,high,https://gulfnews.com/world/mena/tanker-struck-by-mystery-projectile-in-strait-of-hormuz-fire-out-crew-safe-as-attacks-continue-1.500653614,
+2026-08-26,UNKNOWN,BURGAN,SOH,iran_or_unattributed,attack,1,medium,https://seatrade-maritime.com/security/two-crew-casualties-in-hormuz-attack-iran-blacklists-more-ships,
+2026-08-29,WARNING 122-26,withheld,SOH,iran_or_unattributed,attack,1,high,https://gulfnews.com/world/mena/tanker-struck-by-unknown-projectile-in-strait-of-hormuz-ukmto-warning-1.500657396,late report
+2026-08-31,UNKNOWN,Sinokor VLCC (per OSINT),SOH,iran_or_unattributed,attack,1,medium,https://seatrade-maritime.com/security/two-crew-casualties-in-hormuz-attack-iran-blacklists-more-ships,casualties; may duplicate the 3-projectile VLCC report of 1 Sept
+2026-09-21,UNKNOWN,withheld,SOH,iran_or_unattributed,attack,1,high,https://gcaptain.com/two-more-tankers-hit-in-strait-of-hormuz-as-attacks-mount/,two tankers struck (1 of 2)
+2026-09-21,UNKNOWN,withheld,SOH,iran_or_unattributed,attack,1,high,https://gcaptain.com/two-more-tankers-hit-in-strait-of-hormuz-as-attacks-mount/,two tankers struck (2 of 2)

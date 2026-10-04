@@ -1,0 +1,97 @@
+{
+  "decisions": [
+    "2026-03-18",
+    "2026-04-29",
+    "2026-06-17",
+    "2026-07-29",
+    "2026-09-16"
+  ],
+  "incidents_file": "data/incidents_full.csv",
+  "incidents_included": 83,
+  "incidents_excluded": 7,
+  "H1_primary": {
+    "window": [
+      7,
+      0
+    ],
+    "rr": 1.24453125,
+    "in_window": 18,
+    "window_days": 40,
+    "outside": 64,
+    "outside_days": 177,
+    "p_perm": 0.2764976958525346,
+    "K": 216,
+    "p_binom": 0.2434458566712591
+  },
+  "H1_binary_days": {
+    "window": [
+      7,
+      0
+    ],
+    "rr": 1.0816666666666668,
+    "in_window": 11,
+    "window_days": 40,
+    "outside": 45,
+    "outside_days": 177,
+    "p_perm": 0.45161290322580644,
+    "K": 216,
+    "p_binom": 0.4611350429567767
+  },
+  "H1_sens_3": {
+    "window": [
+      3,
+      0
+    ],
+    "rr": 0.3740506329113924,
+    "in_window": 3,
+    "window_days": 20,
+    "outside": 79,
+    "outside_days": 197,
+    "p_perm": 0.9400921658986175,
+    "K": 216,
+    "p_binom": 0.9843122419540599
+  },
+  "H1_sens_14": {
+    "window": [
+      14,
+      0
+    ],
+    "rr": 1.0359748427672957,
+    "in_window": 29,
+    "window_days": 75,
+    "outside": 53,
+    "outside_days": 142,
+    "p_perm": 0.4009216589861751,
+    "K": 216,
+    "p_binom": 0.4805076555980943
+  },
+  "H1_ex_march": {
+    "window": [
+      7,
+      0
+    ],
+    "rr": 0.9988207547169812,
+    "in_window": 11,
+    "window_days": 32,
+    "outside": 53,
+    "outside_days": 154,
+    "p_perm": 0.5161290322580645,
+    "K": 185,
+    "p_binom": 0.5529359025747737
+  },
+  "H1_iran_only": {
+    "window": [
+      7,
+      0
+    ],
+    "rr": 1.2750000000000001,
+    "in_window": 17,
+    "window_days": 40,
+    "outside": 59,
+    "outside_days": 177,
+    "p_perm": 0.2995391705069124,
+    "K": 216,
+    "p_binom": 0.22627708989076145
+  },
+  "verdict": "FAIL TO REJECT H0: no detectable pre-FOMC clustering"
+}

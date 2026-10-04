@@ -1,0 +1,17 @@
+{
+  "oos_decision": "2026-10-28",
+  "window": [
+    "2026-10-21",
+    "2026-10-28"
+  ],
+  "baseline": [
+    "2026-09-23",
+    "2026-10-20"
+  ],
+  "baseline_attacks": 8,
+  "full_sample_attacks": 82,
+  "expected": 2.654377880184332,
+  "threshold": 6,
+  "observed": 0,
+  "outcome": "NOT CONSISTENT with pre-FOMC escalation claim"
+}

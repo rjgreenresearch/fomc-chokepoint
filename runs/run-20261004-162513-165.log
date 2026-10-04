@@ -1,0 +1,19 @@
+event_window_test run 20261004-162513-165
+
+Sample: 2026-03-01 to 2026-10-03 (217 days)
+FOMC decisions in sample: 2026-03-18, 2026-04-29, 2026-06-17, 2026-07-29, 2026-09-16
+Incidents included: 83  excluded: 7  file: data/incidents_full.csv
+
+[H1 primary, counts] window D-7..D+0  in-window 18/40d  outside 64/177d  RR=1.245  p_perm=0.2765 (K=216)  p_binom=0.2434
+[H1 robustness, attack-days] window D-7..D+0  in-window 11/40d  outside 45/177d  RR=1.082  p_perm=0.4516 (K=216)  p_binom=0.4611
+[H1 sensitivity] window D-3..D+0  in-window 3/20d  outside 79/197d  RR=0.374  p_perm=0.9401 (K=216)  p_binom=0.9843
+[H1 sensitivity] window D-14..D+0  in-window 29/75d  outside 53/142d  RR=1.036  p_perm=0.4009 (K=216)  p_binom=0.4805
+[H1 excluding war-onset March] window D-7..D+0  in-window 11/32d  outside 53/154d  RR=0.999  p_perm=0.5161 (K=185)  p_binom=0.5529
+[H1 Iran/unattributed only] window D-7..D+0  in-window 17/40d  outside 59/177d  RR=1.275  p_perm=0.2995 (K=216)  p_binom=0.2263
+
+[H2 Brent] mean pre-window log return +0.0329  per meeting +0.1637, +0.1220, -0.1469, -0.0791, +0.1049  p_perm=0.3134 (K=216)
+
+Primary decision (alpha=0.05, one-sided, circular-shift permutation): FAIL TO REJECT H0: no detectable pre-FOMC clustering
+
+Log: /home/claude/fomc_chokepoint/runs/run-20261004-162513-165.log
+JSON: /home/claude/fomc_chokepoint/runs/run-20261004-162513-165.json

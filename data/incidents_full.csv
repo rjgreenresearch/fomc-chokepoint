@@ -1,0 +1,91 @@
+event_date,ukmto_ref,vessel,region,actor_class,event_class,include,date_confidence,source_url,note
+2026-02-17,WARNING 002-26,not named by UKMTO,Gulf of Aden,houthi,attack,0,high,UKMTO WARNING PDF (user-supplied archive),pre-sample (before war)
+2026-03-01,WARNING 004-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-01,WARNING 005-26,not named by UKMTO,Gulf of Oman,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-01,WARNING 006-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-01,WARNING 007-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-02,WARNING 008-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-03,WARNING 010-26,not named by UKMTO,Gulf of Oman,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-04,WARNING 011-26,not named by UKMTO,Gulf of Oman,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-04,WARNING 012-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-04,WARNING 014-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-06,WARNING 015-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-07,WARNING 016-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-11,WARNING 018-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-11,WARNING 019-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-11,WARNING 020-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-11,WARNING 021-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),vessel 1 of 2
+2026-03-11,WARNING 021-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),vessel 2 of 2
+2026-03-12,WARNING 022-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-03-18,WARNING 024-26,not named by UKMTO,Gulf of Oman,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-04-07,WARNING 032-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,medium,UKMTO WARNING PDF (user-supplied archive),time-late report; report date used (protocol 3.1)
+2026-04-07,WARNING 036-26,not named by UKMTO,Arabian Sea (outside protocol regions),iran_or_unattributed,attack,0,high,UKMTO WARNING PDF (user-supplied archive),EXCLUDED: outside protocol regions; included in sensitivity S-all
+2026-04-18,WARNING 037-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-04-18,WARNING 038-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-04-22,WARNING 041-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-04-22,WARNING 043-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-05-03,WARNING 050-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-05-03,WARNING 052-26,not named by UKMTO,Gulf of Oman,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-05-05,WARNING 055-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-05-10,WARNING 056-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-05-26,WARNING 062-26,not named by UKMTO,Gulf of Oman,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-06-01,WARNING 063-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-06-10,WARNING 065-26,not named by UKMTO,Gulf of Aden,piracy,attack,0,high,UKMTO WARNING PDF (user-supplied archive),EXCLUDED: armed skiff/boarding pattern (piracy)
+2026-06-12,WARNING 068-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-06-15,WARNING 069-26,not named by UKMTO,Gulf of Aden,piracy,attack,0,high,UKMTO WARNING PDF (user-supplied archive),EXCLUDED: armed skiff/boarding pattern (piracy)
+2026-06-15,WARNING 070-26,not named by UKMTO,Gulf of Aden,piracy,attack,0,high,UKMTO WARNING PDF (user-supplied archive),EXCLUDED: armed skiff/boarding pattern (piracy)
+2026-06-17,WARNING 071-26,not named by UKMTO,Gulf of Aden,piracy,attack,0,high,UKMTO WARNING PDF (user-supplied archive),EXCLUDED: armed skiff/boarding pattern (piracy)
+2026-06-25,WARNING 074-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-06-27,WARNING 076-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-05,WARNING 079-26,not named by UKMTO,Southern Red Sea / Bab el-Mandeb,houthi,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-06,WARNING 080-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-07,WARNING 081-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-07,WARNING 082-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-11,WARNING 083-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-13,WARNING 085-26,not named by UKMTO,Gulf of Oman,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-13,WARNING 086-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-13,WARNING 087-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-16,WARNING 088-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-19,WARNING 092-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-19,WARNING 093-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-20,WARNING 094-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-22,WARNING 095-26,not named by UKMTO,Southern Red Sea / Bab el-Mandeb,houthi,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-31,WARNING 101-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-07-31,WARNING 102-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-08-03,WARNING 104-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-08-04,WARNING 105-26,not named by UKMTO,Southern Red Sea / Bab el-Mandeb,houthi,attack,1,medium,UKMTO WARNING PDF (user-supplied archive),time-late report; report date used (protocol 3.1)
+2026-08-05,WARNING 106-26,not named by UKMTO,Gulf of Aden,houthi,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-08-05,WARNING 107-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,medium,UKMTO WARNING PDF (user-supplied archive),time-late report; report date used (protocol 3.1)
+2026-08-08,WARNING 108-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-08-11,WARNING 110-26,not named by UKMTO,Southern Red Sea / Bab el-Mandeb,houthi,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-08-13,WARNING 111-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-08-13,WARNING 112-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-08-14,WARNING 113-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-08-18,WARNING 115-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-08-15,WARNING 116-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,medium,UKMTO WARNING PDF (user-supplied archive),time-late report; report date used (protocol 3.1)
+2026-08-17,WARNING 117-26,not named by UKMTO,Southern Red Sea / Bab el-Mandeb,houthi,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-08-24,WARNING 119-26,not named by UKMTO,Central Red Sea off Yanbu (outside protocol regions),houthi,attack,0,high,UKMTO WARNING PDF (user-supplied archive),EXCLUDED: outside protocol regions; included in sensitivity S-all
+2026-08-24,WARNING 120-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-08-25,WARNING 121-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-08-29,WARNING 122-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,medium,UKMTO WARNING PDF (user-supplied archive),time-late report; report date used (protocol 3.1)
+2026-08-31,WARNING 124-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-08-31,WARNING 126-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,medium,UKMTO WARNING PDF (user-supplied archive),time-late report; report date used (protocol 3.1)
+2026-09-09,WARNING 130-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-09-09,WARNING 131-26,not named by UKMTO,Arabian Gulf,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-09-10,WARNING 133-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),vessel 1 of 2
+2026-09-10,WARNING 133-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),vessel 2 of 2
+2026-09-12,WARNING 134-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-09-14,WARNING 135-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,medium,UKMTO WARNING PDF (user-supplied archive),time-late report; report date used (protocol 3.1)
+2026-09-17,WARNING 137-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-09-18,WARNING 138-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-09-16,WARNING 139-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),time-late report issued 18 Sep; body gives event date 16 Sep
+2026-09-21,WARNING 140-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-09-21,WARNING 141-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,medium,UKMTO WARNING PDF (user-supplied archive),time-late report; report date used (protocol 3.1)
+2026-09-23,WARNING 142-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-09-30,WARNING 144-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,medium,UKMTO WARNING PDF (user-supplied archive),time-late report; report date used (protocol 3.1)
+2026-09-30,WARNING 145-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,medium,UKMTO WARNING PDF (user-supplied archive),time-late report; report date used (protocol 3.1)
+2026-09-30,WARNING 146-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,medium,UKMTO WARNING PDF (user-supplied archive),time-late report; report date used (protocol 3.1)
+2026-10-01,WARNING 147-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-10-02,WARNING 148-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-10-02,WARNING 149-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
+2026-10-04,WARNING 150-26,not named by UKMTO,Strait of Hormuz,iran_or_unattributed,attack,1,high,UKMTO WARNING PDF (user-supplied archive),
